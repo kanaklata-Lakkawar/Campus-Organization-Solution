@@ -1,1 +1,1 @@
-# School-Management-System
+# Campus Organization Solution
